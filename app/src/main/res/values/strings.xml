@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FedUniStudentAttendance30395713</string>
+    <string name="reg_hint_account">please input account</string>
+    <string name="reg_hint_password1">please input password</string>
+    <string name="reg_hint_password2">please input password again</string>
+    <string name="welcome">Welcome</string>
+    <string name="register">register</string>
+    <string name="back">back</string>
+    <string name="forget">forget？</string>
+    <string name="login">Login</string>
+    <string name="app_real_name">Teacher APP</string>
+    <string name="version_1_0_n">version：1.0\n</string>
+</resources>
